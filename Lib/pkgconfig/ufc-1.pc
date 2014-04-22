@@ -1,0 +1,4 @@
+Name: UFC
+Description: Unified Form-assembly Code
+Version: 2.3.0
+Cflags:  -ID:/dolfin_local_git/include
