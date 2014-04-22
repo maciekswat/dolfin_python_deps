@@ -23,4 +23,4 @@ set(UFC_PYTHON_LIBRARIES "C:/Python27/libs/libpython27.a")
 set(UFC_VERSION_STRING "2.3.0")
 
 # The location of the UseUFC.cmake file
-set(UFC_USE_FILE "D:/dolfin_local_git/D:/dolfin_local_git/share/ufc/UseUFC.cmake")
+set(UFC_USE_FILE "D:/dolfin_local_git/share/ufc/UseUFC.cmake")
