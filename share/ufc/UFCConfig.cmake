@@ -13,7 +13,7 @@ set(UFC_INCLUDE_DIRS "D:/dolfin_local_git/include")
 
 # Python include directories
 set(UFC_PYTHON_INCLUDE_DIRS
-  "c:\Python27\include"
+  "c:/Python27/include"
   "d:/source-46/boost/include")
 
 # Python libraries
